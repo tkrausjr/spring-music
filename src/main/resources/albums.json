@@ -8,7 +8,7 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Beach Boys",
+        "artist": "The Beach Boys III",
         "title": "Pet Sounds",
         "releaseYear": "1966",
         "genre": "Rock"
@@ -162,7 +162,7 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Albert King",
+        "artist": "Albert King and Thomas Kraus",
         "title": "Born Under A Bad Sign",
         "releaseYear": "1967",
         "genre": "Blues"
