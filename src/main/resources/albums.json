@@ -155,7 +155,7 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Thomas Kraus",
+        "artist": "Thomas K",
         "title": "Singin' The Blues",
         "releaseYear": "1956",
         "genre": "Blues"
